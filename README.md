@@ -16,5 +16,3 @@
 <hr>
 
 <p>Phần thư mục <em>Matlab</em> đã bao gồm FilterDesigner được cấu hình sẵn tên là <span style="color:#d35400">Heso_final.fda</span></p>
-
-<p><em>Không thay đổi bất cứ thứ gì và làm nó đẹp hơn.</em></p>
